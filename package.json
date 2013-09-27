@@ -1,0 +1,14 @@
+{
+  "name": "simple-stream-pipe",
+  "version": "0.0.0",
+  "description": "Pipe simple-stream to node's writable stream",
+  "keywords": ["simple stream", "pipe"],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/simple-stream-pipe"
+  },
+  "dependencies": {
+    "asyncloop": "0.0.1"
+  }
+}
