@@ -1,6 +1,6 @@
 {
   "name": "simple-stream-pipe",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pipe simple-stream to node's writable stream",
   "keywords": ["simple stream", "pipe"],
   "author": "Eldar Gabdullin <eldargab@gmail.com>",
